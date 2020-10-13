@@ -1,0 +1,2056 @@
+fileFormatVersion: 2
+guid: 89f8eba21d9bad4439911e11fc04be02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2323810373656511008
+    second: fantasyhextiles_v3_0
+  - first:
+      213: 5667840648637180397
+    second: fantasyhextiles_v3_1
+  - first:
+      213: -6154527537789328042
+    second: fantasyhextiles_v3_2
+  - first:
+      213: -4512851853396015951
+    second: fantasyhextiles_v3_3
+  - first:
+      213: 1350654428746220928
+    second: fantasyhextiles_v3_4
+  - first:
+      213: -5275657792330925411
+    second: fantasyhextiles_v3_5
+  - first:
+      213: -3882381983857373155
+    second: fantasyhextiles_v3_6
+  - first:
+      213: 192585891294205710
+    second: fantasyhextiles_v3_7
+  - first:
+      213: 2450796846250647559
+    second: fantasyhextiles_v3_8
+  - first:
+      213: 6233921878529581075
+    second: fantasyhextiles_v3_9
+  - first:
+      213: 1109728235934656095
+    second: fantasyhextiles_v3_10
+  - first:
+      213: 7411299063556176421
+    second: fantasyhextiles_v3_11
+  - first:
+      213: -3021042921948808444
+    second: fantasyhextiles_v3_12
+  - first:
+      213: -8665564346410316962
+    second: fantasyhextiles_v3_13
+  - first:
+      213: -892670004239661681
+    second: fantasyhextiles_v3_14
+  - first:
+      213: 4727263266655033677
+    second: fantasyhextiles_v3_15
+  - first:
+      213: -1412454836485576722
+    second: fantasyhextiles_v3_16
+  - first:
+      213: -8318047989575985451
+    second: fantasyhextiles_v3_17
+  - first:
+      213: 7298178910247252594
+    second: fantasyhextiles_v3_18
+  - first:
+      213: -3472981989325724952
+    second: fantasyhextiles_v3_19
+  - first:
+      213: -8275583933896327715
+    second: fantasyhextiles_v3_20
+  - first:
+      213: 2529989241948367816
+    second: fantasyhextiles_v3_21
+  - first:
+      213: -6157358959018111359
+    second: fantasyhextiles_v3_22
+  - first:
+      213: -2642441492577688136
+    second: fantasyhextiles_v3_23
+  - first:
+      213: 9071330096685583303
+    second: fantasyhextiles_v3_24
+  - first:
+      213: 2330957037806367216
+    second: fantasyhextiles_v3_25
+  - first:
+      213: -5920736061661972224
+    second: fantasyhextiles_v3_26
+  - first:
+      213: -3109900946470079800
+    second: fantasyhextiles_v3_27
+  - first:
+      213: -4322079813296173439
+    second: fantasyhextiles_v3_28
+  - first:
+      213: 1357289811766173564
+    second: fantasyhextiles_v3_29
+  - first:
+      213: -491879578407868640
+    second: fantasyhextiles_v3_30
+  - first:
+      213: 3958384453955695738
+    second: fantasyhextiles_v3_31
+  - first:
+      213: -2105649096849385246
+    second: fantasyhextiles_v3_32
+  - first:
+      213: -5570728307603329363
+    second: fantasyhextiles_v3_33
+  - first:
+      213: -1129808954337107655
+    second: fantasyhextiles_v3_34
+  - first:
+      213: 5541035508590840154
+    second: fantasyhextiles_v3_35
+  - first:
+      213: 1283354751146326117
+    second: fantasyhextiles_v3_36
+  - first:
+      213: -8483941131960238994
+    second: fantasyhextiles_v3_37
+  - first:
+      213: 3813582167500930795
+    second: fantasyhextiles_v3_38
+  - first:
+      213: 7191433588456369238
+    second: fantasyhextiles_v3_39
+  - first:
+      213: -6848656756194493189
+    second: fantasyhextiles_v3_40
+  - first:
+      213: -1383374779242704683
+    second: fantasyhextiles_v3_41
+  - first:
+      213: -7616371711635432387
+    second: fantasyhextiles_v3_42
+  - first:
+      213: 1437179711421484648
+    second: fantasyhextiles_v3_43
+  - first:
+      213: 2440252907580036409
+    second: fantasyhextiles_v3_44
+  - first:
+      213: -2545213656094413368
+    second: fantasyhextiles_v3_45
+  - first:
+      213: 5510650943439795893
+    second: fantasyhextiles_v3_46
+  - first:
+      213: 3975322873710520458
+    second: fantasyhextiles_v3_47
+  - first:
+      213: -7941401604620001766
+    second: fantasyhextiles_v3_48
+  - first:
+      213: 3037802410078884280
+    second: fantasyhextiles_v3_49
+  - first:
+      213: -7707877655333462333
+    second: fantasyhextiles_v3_50
+  - first:
+      213: -5600832041063882186
+    second: fantasyhextiles_v3_51
+  - first:
+      213: 1945980030198209675
+    second: fantasyhextiles_v3_52
+  - first:
+      213: 1225404146199331835
+    second: fantasyhextiles_v3_53
+  - first:
+      213: -1194064526047674915
+    second: fantasyhextiles_v3_54
+  - first:
+      213: -1450272848435306198
+    second: fantasyhextiles_v3_55
+  - first:
+      213: -8484627169169001193
+    second: fantasyhextiles_v3_56
+  - first:
+      213: -243416093449617172
+    second: fantasyhextiles_v3_57
+  - first:
+      213: 4602703832822787996
+    second: fantasyhextiles_v3_58
+  - first:
+      213: 8079353075479157407
+    second: fantasyhextiles_v3_59
+  - first:
+      213: 7001979444142906404
+    second: fantasyhextiles_v3_60
+  - first:
+      213: -8576884050332895844
+    second: fantasyhextiles_v3_61
+  - first:
+      213: 7190527273563572565
+    second: fantasyhextiles_v3_62
+  - first:
+      213: 6330517188566612652
+    second: fantasyhextiles_v3_63
+  - first:
+      213: 4060517085723881979
+    second: fantasyhextiles_v3_64
+  - first:
+      213: 1300132621320138623
+    second: fantasyhextiles_v3_65
+  - first:
+      213: -422856132925883475
+    second: fantasyhextiles_v3_66
+  - first:
+      213: -5670872094151722720
+    second: fantasyhextiles_v3_67
+  - first:
+      213: -4360223070553433569
+    second: fantasyhextiles_v3_68
+  - first:
+      213: -3243153876408052095
+    second: fantasyhextiles_v3_69
+  - first:
+      213: 7568814534794200891
+    second: fantasyhextiles_v3_70
+  - first:
+      213: -4183769959344460550
+    second: fantasyhextiles_v3_71
+  - first:
+      213: 4290156463302453528
+    second: fantasyhextiles_v3_72
+  - first:
+      213: 6575679266743374998
+    second: fantasyhextiles_v3_73
+  - first:
+      213: -5304756520972188959
+    second: fantasyhextiles_v3_74
+  - first:
+      213: 8264116897124253661
+    second: fantasyhextiles_v3_75
+  - first:
+      213: 7926387552490355908
+    second: fantasyhextiles_v3_76
+  - first:
+      213: 8754897666373881294
+    second: fantasyhextiles_v3_77
+  - first:
+      213: 1990559810665373100
+    second: fantasyhextiles_v3_78
+  - first:
+      213: -1760186418195194100
+    second: fantasyhextiles_v3_79
+  - first:
+      213: 3773778512297395057
+    second: fantasyhextiles_v3_80
+  - first:
+      213: 7604464555562290434
+    second: fantasyhextiles_v3_81
+  - first:
+      213: 2645097563900954520
+    second: fantasyhextiles_v3_82
+  - first:
+      213: 4550471888185318025
+    second: fantasyhextiles_v3_83
+  - first:
+      213: -6314338629182436182
+    second: fantasyhextiles_v3_84
+  - first:
+      213: 8160827200392105134
+    second: fantasyhextiles_v3_85
+  - first:
+      213: -5305539851964996762
+    second: fantasyhextiles_v3_86
+  - first:
+      213: -808983814264740399
+    second: fantasyhextiles_v3_87
+  - first:
+      213: 2270432839191218862
+    second: fantasyhextiles_v3_88
+  - first:
+      213: -470812230649500478
+    second: fantasyhextiles_v3_89
+  - first:
+      213: 57173267109729244
+    second: fantasyhextiles_v3_90
+  - first:
+      213: 7131588411446376387
+    second: fantasyhextiles_v3_91
+  - first:
+      213: 3663155510755553021
+    second: fantasyhextiles_v3_92
+  - first:
+      213: -7497103520896081448
+    second: fantasyhextiles_v3_93
+  - first:
+      213: -3801733835104562927
+    second: fantasyhextiles_v3_94
+  - first:
+      213: -8686482671160121254
+    second: fantasyhextiles_v3_95
+  - first:
+      213: -2789352642030899326
+    second: fantasyhextiles_v3_96
+  - first:
+      213: 8977429990918791087
+    second: fantasyhextiles_v3_97
+  - first:
+      213: -952303698047377600
+    second: fantasyhextiles_v3_98
+  - first:
+      213: -2745141358597095951
+    second: fantasyhextiles_v3_99
+  - first:
+      213: 7318312400723125854
+    second: fantasyhextiles_v3_100
+  - first:
+      213: 6593971093734960807
+    second: fantasyhextiles_v3_101
+  - first:
+      213: 6119719937700594686
+    second: fantasyhextiles_v3_102
+  - first:
+      213: 3209030547513989855
+    second: fantasyhextiles_v3_103
+  - first:
+      213: -6177416559667643383
+    second: fantasyhextiles_v3_104
+  - first:
+      213: -1865606858025475
+    second: fantasyhextiles_v3_105
+  - first:
+      213: 7968532162747426198
+    second: fantasyhextiles_v3_106
+  - first:
+      213: -1707546210102448896
+    second: fantasyhextiles_v3_107
+  - first:
+      213: -1285547931298780847
+    second: fantasyhextiles_v3_108
+  - first:
+      213: 1314260822160545776
+    second: fantasyhextiles_v3_109
+  - first:
+      213: 7763280628286491610
+    second: fantasyhextiles_v3_110
+  - first:
+      213: 7268135350286880269
+    second: fantasyhextiles_v3_111
+  - first:
+      213: 1734656234157758683
+    second: fantasyhextiles_v3_112
+  - first:
+      213: 7659942259922631216
+    second: fantasyhextiles_v3_113
+  - first:
+      213: 6732768149304414951
+    second: fantasyhextiles_v3_114
+  - first:
+      213: -4722071485507175465
+    second: fantasyhextiles_v3_115
+  - first:
+      213: -7367629081261421959
+    second: fantasyhextiles_v3_116
+  - first:
+      213: -4118272452927713433
+    second: fantasyhextiles_v3_117
+  - first:
+      213: 2855851390720828663
+    second: fantasyhextiles_v3_118
+  - first:
+      213: -4970672263701221156
+    second: fantasyhextiles_v3_119
+  - first:
+      213: -4713213584814998667
+    second: fantasyhextiles_v3_120
+  - first:
+      213: 8202039731612237612
+    second: fantasyhextiles_v3_121
+  - first:
+      213: 700592774706272884
+    second: fantasyhextiles_v3_122
+  - first:
+      213: 6258469716465079454
+    second: fantasyhextiles_v3_123
+  - first:
+      213: -3092119996442305261
+    second: fantasyhextiles_v3_124
+  - first:
+      213: -5282748714873888265
+    second: fantasyhextiles_v3_125
+  - first:
+      213: -1907719837800357486
+    second: fantasyhextiles_v3_126
+  - first:
+      213: -5382676689599731114
+    second: fantasyhextiles_v3_127
+  - first:
+      213: 4820910953733565682
+    second: fantasyhextiles_v3_128
+  - first:
+      213: -5880361964391144983
+    second: fantasyhextiles_v3_129
+  - first:
+      213: 729649783996125465
+    second: fantasyhextiles_v3_130
+  - first:
+      213: -4479272667984865095
+    second: fantasyhextiles_v3_131
+  - first:
+      213: -2959610920841141957
+    second: fantasyhextiles_v3_132
+  - first:
+      213: -5099948888816823317
+    second: fantasyhextiles_v3_133
+  - first:
+      213: -2486823017715100110
+    second: fantasyhextiles_v3_134
+  - first:
+      213: 7369997160952270878
+    second: fantasyhextiles_v3_135
+  - first:
+      213: 631965496651753235
+    second: fantasyhextiles_v3_136
+  - first:
+      213: 6299788462500126371
+    second: fantasyhextiles_v3_137
+  - first:
+      213: -745486568594525232
+    second: fantasyhextiles_v3_138
+  - first:
+      213: -6662461856512763763
+    second: fantasyhextiles_v3_139
+  - first:
+      213: -5630187700417181692
+    second: fantasyhextiles_v3_140
+  - first:
+      213: -2679181198247283952
+    second: fantasyhextiles_v3_141
+  - first:
+      213: 826193395323824321
+    second: fantasyhextiles_v3_142
+  - first:
+      213: -7318213787074029856
+    second: fantasyhextiles_v3_143
+  - first:
+      213: -3946035369958202762
+    second: fantasyhextiles_v3_144
+  - first:
+      213: 5550491483291062938
+    second: fantasyhextiles_v3_145
+  - first:
+      213: -6153564611710799443
+    second: fantasyhextiles_v3_146
+  - first:
+      213: -1581776183276256647
+    second: fantasyhextiles_v3_147
+  - first:
+      213: -2752565858950732768
+    second: fantasyhextiles_v3_148
+  - first:
+      213: -2065559924563683963
+    second: fantasyhextiles_v3_149
+  - first:
+      213: 4308401222070682828
+    second: fantasyhextiles_v3_150
+  - first:
+      213: -8009361406034379108
+    second: fantasyhextiles_v3_151
+  - first:
+      213: 917171486041868089
+    second: fantasyhextiles_v3_152
+  - first:
+      213: -989063976139511008
+    second: fantasyhextiles_v3_153
+  - first:
+      213: -5061086729968177061
+    second: fantasyhextiles_v3_154
+  - first:
+      213: 1415172336053692984
+    second: fantasyhextiles_v3_155
+  - first:
+      213: 3784024553686646409
+    second: fantasyhextiles_v3_156
+  - first:
+      213: -2459878785911402315
+    second: fantasyhextiles_v3_157
+  - first:
+      213: 1688831513632437106
+    second: fantasyhextiles_v3_158
+  - first:
+      213: 3122213345541177082
+    second: fantasyhextiles_v3_159
+  - first:
+      213: -7168835462977590878
+    second: fantasyhextiles_v3_160
+  - first:
+      213: 4982196690523258457
+    second: fantasyhextiles_v3_161
+  - first:
+      213: -663122743081978417
+    second: fantasyhextiles_v3_162
+  - first:
+      213: 4236809063914812941
+    second: fantasyhextiles_v3_163
+  - first:
+      213: 6769964499743605999
+    second: fantasyhextiles_v3_164
+  - first:
+      213: 5408612410872498308
+    second: fantasyhextiles_v3_165
+  - first:
+      213: 4857585321049427286
+    second: fantasyhextiles_v3_166
+  - first:
+      213: -7202738404428913467
+    second: fantasyhextiles_v3_167
+  - first:
+      213: 1936862848804034857
+    second: fantasyhextiles_v3_168
+  - first:
+      213: -3217082647311590480
+    second: fantasyhextiles_v3_169
+  - first:
+      213: 930643458553568077
+    second: fantasyhextiles_v3_170
+  - first:
+      213: -5299444621390544553
+    second: fantasyhextiles_v3_171
+  - first:
+      213: -6359863749206851190
+    second: fantasyhextiles_v3_172
+  - first:
+      213: -4225771169434119454
+    second: fantasyhextiles_v3_173
+  - first:
+      213: -7308852570548490890
+    second: fantasyhextiles_v3_174
+  - first:
+      213: 4137687730893797766
+    second: fantasyhextiles_v3_175
+  - first:
+      213: -429785142050491827
+    second: fantasyhextiles_v3_176
+  - first:
+      213: 8032845659770197498
+    second: fantasyhextiles_v3_177
+  - first:
+      213: -6322742814569298860
+    second: fantasyhextiles_v3_178
+  - first:
+      213: 7126135205457337676
+    second: fantasyhextiles_v3_179
+  - first:
+      213: -3207203246400763691
+    second: fantasyhextiles_v3_180
+  - first:
+      213: 5851493759389368465
+    second: fantasyhextiles_v3_181
+  - first:
+      213: 5041307175171166894
+    second: fantasyhextiles_v3_182
+  - first:
+      213: 7275732507872426328
+    second: fantasyhextiles_v3_183
+  - first:
+      213: 2524342840693717131
+    second: fantasyhextiles_v3_184
+  - first:
+      213: -1035743154634539884
+    second: fantasyhextiles_v3_185
+  - first:
+      213: -6419141024363875356
+    second: fantasyhextiles_v3_186
+  - first:
+      213: -1125053362077645465
+    second: fantasyhextiles_v3_187
+  - first:
+      213: -4242154462062023698
+    second: fantasyhextiles_v3_188
+  - first:
+      213: 1152777717890773988
+    second: fantasyhextiles_v3_189
+  - first:
+      213: 8194004600395759518
+    second: fantasyhextiles_v3_190
+  - first:
+      213: 7418037970929056449
+    second: fantasyhextiles_v3_191
+  - first:
+      213: -214261839272286967
+    second: fantasyhextiles_v3_192
+  - first:
+      213: 5333261992185154503
+    second: fantasyhextiles_v3_193
+  - first:
+      213: -5247798305563990561
+    second: fantasyhextiles_v3_194
+  - first:
+      213: -7913358052943894067
+    second: fantasyhextiles_v3_195
+  - first:
+      213: 5556971670988638165
+    second: fantasyhextiles_v3_196
+  - first:
+      213: 2530021830009870160
+    second: fantasyhextiles_v3_197
+  - first:
+      213: -5477297386430385122
+    second: fantasyhextiles_v3_198
+  - first:
+      213: -7626820865227042357
+    second: fantasyhextiles_v3_199
+  - first:
+      213: 7781438075502066673
+    second: fantasyhextiles_v3_200
+  - first:
+      213: -8342968545251250749
+    second: fantasyhextiles_v3_201
+  - first:
+      213: 4188195840282106416
+    second: fantasyhextiles_v3_202
+  - first:
+      213: -8259606019808438555
+    second: fantasyhextiles_v3_203
+  - first:
+      213: 3624583827368824909
+    second: fantasyhextiles_v3_204
+  - first:
+      213: 2310515467713867669
+    second: fantasyhextiles_v3_205
+  - first:
+      213: 1199638010979557925
+    second: fantasyhextiles_v3_206
+  - first:
+      213: -3340119331650703811
+    second: fantasyhextiles_v3_207
+  - first:
+      213: 8001556956243778523
+    second: fantasyhextiles_v3_208
+  - first:
+      213: -2062465333675362292
+    second: fantasyhextiles_v3_209
+  - first:
+      213: 3263160934440315245
+    second: fantasyhextiles_v3_210
+  - first:
+      213: 1406493616602047889
+    second: fantasyhextiles_v3_211
+  - first:
+      213: -590654783450249329
+    second: fantasyhextiles_v3_212
+  - first:
+      213: 208131695487636861
+    second: fantasyhextiles_v3_213
+  - first:
+      213: -4432392770445422627
+    second: fantasyhextiles_v3_214
+  - first:
+      213: 7847404913511787888
+    second: fantasyhextiles_v3_215
+  - first:
+      213: -5651508295582386305
+    second: fantasyhextiles_v3_216
+  - first:
+      213: 2323744666929561864
+    second: fantasyhextiles_v3_217
+  - first:
+      213: 506022726887634716
+    second: fantasyhextiles_v3_218
+  - first:
+      213: -20918536510325189
+    second: fantasyhextiles_v3_219
+  - first:
+      213: 4546459199824801818
+    second: fantasyhextiles_v3_220
+  - first:
+      213: 5581478823105223311
+    second: fantasyhextiles_v3_221
+  - first:
+      213: 8475921555827399051
+    second: fantasyhextiles_v3_222
+  - first:
+      213: -6762574533648823487
+    second: fantasyhextiles_v3_223
+  - first:
+      213: -5724148409990644644
+    second: fantasyhextiles_v3_224
+  - first:
+      213: 9079359042902319114
+    second: fantasyhextiles_v3_225
+  - first:
+      213: -5343737138744105864
+    second: fantasyhextiles_v3_226
+  - first:
+      213: -3985829213938852336
+    second: fantasyhextiles_v3_227
+  - first:
+      213: -3272001824304693357
+    second: fantasyhextiles_v3_228
+  - first:
+      213: -775460770626504407
+    second: fantasyhextiles_v3_229
+  - first:
+      213: 457618268142281059
+    second: fantasyhextiles_v3_230
+  - first:
+      213: 5517535014169013761
+    second: fantasyhextiles_v3_231
+  - first:
+      213: 7987796893798165990
+    second: fantasyhextiles_v3_232
+  - first:
+      213: -8978671910379376987
+    second: fantasyhextiles_v3_233
+  - first:
+      213: 9056414011493022929
+    second: fantasyhextiles_v3_234
+  - first:
+      213: 8564623031263674795
+    second: fantasyhextiles_v3_235
+  - first:
+      213: 6321592304402097741
+    second: fantasyhextiles_v3_236
+  - first:
+      213: 5206266441291907803
+    second: fantasyhextiles_v3_237
+  - first:
+      213: -823655835465044894
+    second: fantasyhextiles_v3_238
+  - first:
+      213: -5487467965651749134
+    second: fantasyhextiles_v3_239
+  - first:
+      213: -6938544822120128376
+    second: fantasyhextiles_v3_240
+  - first:
+      213: 7640493533779172906
+    second: fantasyhextiles_v3_241
+  - first:
+      213: -7320931618086475094
+    second: fantasyhextiles_v3_242
+  - first:
+      213: -1496786039200187086
+    second: fantasyhextiles_v3_243
+  - first:
+      213: 7118266806527202639
+    second: fantasyhextiles_v3_244
+  - first:
+      213: -8538081286397581458
+    second: fantasyhextiles_v3_245
+  - first:
+      213: -276788230615375000
+    second: fantasyhextiles_v3_246
+  - first:
+      213: -4874892307512909301
+    second: fantasyhextiles_v3_247
+  - first:
+      213: -4494428404178779733
+    second: fantasyhextiles_v3_248
+  - first:
+      213: 6352427355955476405
+    second: fantasyhextiles_v3_249
+  - first:
+      213: -2161703218238986274
+    second: fantasyhextiles_v3_250
+  - first:
+      213: -2600712274564744864
+    second: fantasyhextiles_v3_251
+  - first:
+      213: -7668698097372610415
+    second: fantasyhextiles_v3_252
+  - first:
+      213: -4478547492668804429
+    second: fantasyhextiles_v3_253
+  - first:
+      213: -6537282627732631074
+    second: fantasyhextiles_v3_254
+  - first:
+      213: 7069724137372493317
+    second: fantasyhextiles_v3_255
+  - first:
+      213: -4676008910770502491
+    second: fantasyhextiles_v3_256
+  - first:
+      213: -4077467937299327358
+    second: fantasyhextiles_v3_257
+  - first:
+      213: 1306105253457222162
+    second: fantasyhextiles_v3_258
+  - first:
+      213: 4197628721658346551
+    second: fantasyhextiles_v3_259
+  - first:
+      213: 2165656277495521067
+    second: fantasyhextiles_v3_260
+  - first:
+      213: 2763047371780309358
+    second: fantasyhextiles_v3_261
+  - first:
+      213: 6748896381185977899
+    second: fantasyhextiles_v3_262
+  - first:
+      213: -9107806561017541433
+    second: fantasyhextiles_v3_263
+  - first:
+      213: 1831896469804310934
+    second: fantasyhextiles_v3_264
+  - first:
+      213: 8303360378678249498
+    second: fantasyhextiles_v3_265
+  - first:
+      213: 9111101036278294338
+    second: fantasyhextiles_v3_266
+  - first:
+      213: 1982818465240736394
+    second: fantasyhextiles_v3_267
+  - first:
+      213: 3704705952928280204
+    second: fantasyhextiles_v3_268
+  - first:
+      213: 2137781961839846029
+    second: fantasyhextiles_v3_269
+  - first:
+      213: 1641170764997760704
+    second: fantasyhextiles_v3_270
+  - first:
+      213: 3385388196777739369
+    second: fantasyhextiles_v3_271
+  - first:
+      213: 2480568251102173156
+    second: fantasyhextiles_v3_272
+  - first:
+      213: 6471989486201076074
+    second: fantasyhextiles_v3_273
+  - first:
+      213: 6903761965557062517
+    second: fantasyhextiles_v3_274
+  - first:
+      213: -5684609273334754731
+    second: fantasyhextiles_v3_275
+  - first:
+      213: 5952105057581763052
+    second: fantasyhextiles_v3_276
+  - first:
+      213: -1801886911405213374
+    second: fantasyhextiles_v3_277
+  - first:
+      213: -6982402377426057258
+    second: fantasyhextiles_v3_278
+  - first:
+      213: -2747907663129732574
+    second: fantasyhextiles_v3_279
+  - first:
+      213: -5112078203326093309
+    second: fantasyhextiles_v3_280
+  - first:
+      213: 1962099280600468312
+    second: fantasyhextiles_v3_281
+  - first:
+      213: -3493070704599654534
+    second: fantasyhextiles_v3_282
+  - first:
+      213: -6909987780116205125
+    second: fantasyhextiles_v3_283
+  - first:
+      213: 4853063396791355017
+    second: fantasyhextiles_v3_284
+  - first:
+      213: -8769079887787910969
+    second: fantasyhextiles_v3_285
+  - first:
+      213: -7471461051423016690
+    second: fantasyhextiles_v3_286
+  - first:
+      213: -661022027193822239
+    second: fantasyhextiles_v3_287
+  - first:
+      213: 7973641822105220750
+    second: fantasyhextiles_v3_288
+  - first:
+      213: 5578372623400523794
+    second: fantasyhextiles_v3_289
+  - first:
+      213: 6282070719930101991
+    second: fantasyhextiles_v3_290
+  - first:
+      213: -558814251125511052
+    second: fantasyhextiles_v3_291
+  - first:
+      213: -5124960539786469146
+    second: fantasyhextiles_v3_292
+  - first:
+      213: 7455966324443049169
+    second: fantasyhextiles_v3_293
+  - first:
+      213: -7486034396561774125
+    second: fantasyhextiles_v3_294
+  - first:
+      213: 943651087274315753
+    second: fantasyhextiles_v3_295
+  - first:
+      213: -8614187134773096422
+    second: fantasyhextiles_v3_296
+  - first:
+      213: -4488851251422959319
+    second: fantasyhextiles_v3_297
+  - first:
+      213: 5075864492435079858
+    second: fantasyhextiles_v3_298
+  - first:
+      213: 5110415726150827301
+    second: fantasyhextiles_v3_299
+  - first:
+      213: -7194338071789299286
+    second: fantasyhextiles_v3_300
+  - first:
+      213: -5298422115315064183
+    second: fantasyhextiles_v3_301
+  - first:
+      213: -5880358089338043660
+    second: fantasyhextiles_v3_302
+  - first:
+      213: -2222165229702504898
+    second: fantasyhextiles_v3_303
+  - first:
+      213: 186011030089668302
+    second: fantasyhextiles_v3_304
+  - first:
+      213: -2104760709808669644
+    second: fantasyhextiles_v3_305
+  - first:
+      213: 471824257986265828
+    second: fantasyhextiles_v3_306
+  - first:
+      213: -1050646060715922623
+    second: fantasyhextiles_v3_307
+  - first:
+      213: 2029777956251376338
+    second: fantasyhextiles_v3_308
+  - first:
+      213: -471403700605413405
+    second: fantasyhextiles_v3_309
+  - first:
+      213: 3127302709691046422
+    second: fantasyhextiles_v3_310
+  - first:
+      213: 7311815253045032707
+    second: fantasyhextiles_v3_311
+  - first:
+      213: 641410915327837730
+    second: fantasyhextiles_v3_312
+  - first:
+      213: 7837574595960324219
+    second: fantasyhextiles_v3_313
+  - first:
+      213: -9118326261547269098
+    second: fantasyhextiles_v3_314
+  - first:
+      213: 395817246970885646
+    second: fantasyhextiles_v3_315
+  - first:
+      213: 9217137817392399312
+    second: fantasyhextiles_v3_316
+  - first:
+      213: 1968194248900901388
+    second: fantasyhextiles_v3_317
+  - first:
+      213: 2251701824510231415
+    second: fantasyhextiles_v3_318
+  - first:
+      213: -1140354261738936675
+    second: fantasyhextiles_v3_319
+  - first:
+      213: -4686049758161619665
+    second: fantasyhextiles_v3_320
+  - first:
+      213: 7341898726610955251
+    second: fantasyhextiles_v3_321
+  - first:
+      213: -3226802785869520930
+    second: fantasyhextiles_v3_322
+  - first:
+      213: 903690801005407138
+    second: fantasyhextiles_v3_323
+  - first:
+      213: 1374941799705940347
+    second: fantasyhextiles_v3_324
+  - first:
+      213: 1807163303582518326
+    second: fantasyhextiles_v3_325
+  - first:
+      213: -4028338224639786171
+    second: fantasyhextiles_v3_326
+  - first:
+      213: -890898412226142312
+    second: fantasyhextiles_v3_327
+  - first:
+      213: 4865867989565669374
+    second: fantasyhextiles_v3_328
+  - first:
+      213: -2109334351687097225
+    second: fantasyhextiles_v3_329
+  - first:
+      213: 8352194600033995643
+    second: fantasyhextiles_v3_330
+  - first:
+      213: 1304498611400238679
+    second: fantasyhextiles_v3_331
+  - first:
+      213: 273605622987425954
+    second: fantasyhextiles_v3_332
+  - first:
+      213: 416301291248648635
+    second: fantasyhextiles_v3_333
+  - first:
+      213: -6295634860471526157
+    second: fantasyhextiles_v3_334
+  - first:
+      213: -4465741261012464225
+    second: fantasyhextiles_v3_335
+  - first:
+      213: -7271489724040536929
+    second: fantasyhextiles_v3_336
+  - first:
+      213: -2149794638505383113
+    second: fantasyhextiles_v3_337
+  - first:
+      213: 8929343250291933001
+    second: fantasyhextiles_v3_338
+  - first:
+      213: -2297931718920340070
+    second: fantasyhextiles_v3_339
+  - first:
+      213: 6010683693193160376
+    second: fantasyhextiles_v3_340
+  - first:
+      213: 8947761543015261072
+    second: fantasyhextiles_v3_341
+  - first:
+      213: -2868148516721622247
+    second: fantasyhextiles_v3_342
+  - first:
+      213: -1808604293868894732
+    second: fantasyhextiles_v3_343
+  - first:
+      213: 6997311859517275568
+    second: fantasyhextiles_v3_344
+  - first:
+      213: 4498477369424268511
+    second: fantasyhextiles_v3_345
+  - first:
+      213: -1447516516738645091
+    second: fantasyhextiles_v3_346
+  - first:
+      213: -6257256451770197933
+    second: fantasyhextiles_v3_347
+  - first:
+      213: -1383176830946092223
+    second: fantasyhextiles_v3_348
+  - first:
+      213: 3594727835330576123
+    second: fantasyhextiles_v3_349
+  - first:
+      213: 3658070153799050047
+    second: fantasyhextiles_v3_350
+  - first:
+      213: 381726181262879129
+    second: fantasyhextiles_v3_351
+  - first:
+      213: 6753055242510387705
+    second: fantasyhextiles_v3_352
+  - first:
+      213: 5310809962701326608
+    second: fantasyhextiles_v3_353
+  - first:
+      213: -6504431388356678630
+    second: fantasyhextiles_v3_354
+  - first:
+      213: -3497155848102717211
+    second: fantasyhextiles_v3_355
+  - first:
+      213: -3908166406200689645
+    second: fantasyhextiles_v3_356
+  - first:
+      213: 2042254904181546873
+    second: fantasyhextiles_v3_357
+  - first:
+      213: -6280059145791552958
+    second: fantasyhextiles_v3_358
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220a270935df3020800000000000000
+      internalID: 2323810373656511008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e9895a0738ae40800000000000000
+      internalID: 5667840648637180397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65525bdffc9b69aa0800000000000000
+      internalID: -6154527537789328042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b40e5246212f51c0800000000000000
+      internalID: -4512851853396015951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850abffb0d7eb210800000000000000
+      internalID: 1350654428746220928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9af793803919c6b0800000000000000
+      internalID: -5275657792330925411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101ec9c7220f1ac0800000000000000
+      internalID: -3882381983857373155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d75709d33ca200800000000000000
+      internalID: 192585891294205710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700ea6d2fbaf20220800000000000000
+      internalID: 2450796846250647559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310aa477be6538650800000000000000
+      internalID: 6233921878529581075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562b1473fb866f00800000000000000
+      internalID: 1109728235934656095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a73774b393ad660800000000000000
+      internalID: 7411299063556176421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b780af7791316d0800000000000000
+      internalID: -3021042921948808444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b4ce9932bbdb780800000000000000
+      internalID: -8665564346410316962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8506a75c599c93f0800000000000000
+      internalID: -892670004239661681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49d9b815ec9a9140800000000000000
+      internalID: 4727263266655033677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7aef94fc3f56ce0800000000000000
+      internalID: -1412454836485576722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6dba4ac6b509c80800000000000000
+      internalID: -8318047989575985451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272f88c2d07584560800000000000000
+      internalID: 7298178910247252594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e229e6084d7dcfc0800000000000000
+      internalID: -3472981989325724952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddfd2f0248372d80800000000000000
+      internalID: -8275583933896327715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb64e3afc35c1320800000000000000
+      internalID: 2529989241948367816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e082d56aaac8aa0800000000000000
+      internalID: -6157358959018111359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b567277679245bd0800000000000000
+      internalID: -2642441492577688136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb014539a6d3ed70800000000000000
+      internalID: 9071330096685583303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f135217319395020800000000000000
+      internalID: 2330957037806367216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009facbdbe155dda0800000000000000
+      internalID: -5920736061661972224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2fffee09967d4d0800000000000000
+      internalID: -3109900946470079800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e48952f43e404c0800000000000000
+      internalID: -4322079813296173439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f549f74ef06d210800000000000000
+      internalID: 1357289811766173564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027eab8212e7c29f0800000000000000
+      internalID: -491879578407868640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74357e30b10fe630800000000000000
+      internalID: 3958384453955695738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e89ba87d4b37c2e0800000000000000
+      internalID: -2105649096849385246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae27158e1cc0b2b0800000000000000
+      internalID: -5570728307603329363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9316ea4fdbc1250f0800000000000000
+      internalID: -1129808954337107655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a590269ff66b5ec40800000000000000
+      internalID: 5541035508590840154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568f2eeb8546fc110800000000000000
+      internalID: 1283354751146326117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3f268d7cf24a80800000000000000
+      internalID: -8483941131960238994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee38afa6c09ce430800000000000000
+      internalID: 3813582167500930795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c21c13fba1dc360800000000000000
+      internalID: 7191433588456369238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyhextiles_v3_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb27a47fea4f0a0800000000000000
+      internalID: -6848656756194493189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0809772259e0784989d32cbc1ed2714
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

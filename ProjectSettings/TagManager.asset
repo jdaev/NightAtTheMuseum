@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Spell
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Obstacles
+  - Hoops
+  - Player
+  - Enemies
+  - Bullets
+  - Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SceneObjects
+    uniqueID: 2602338385
+    locked: 0
+  - name: Ground
+    uniqueID: 2647972217
+    locked: 0
+  - name: Obstacles
+    uniqueID: 136643563
+    locked: 0
+  - name: Player
+    uniqueID: 4220805575
+    locked: 0
