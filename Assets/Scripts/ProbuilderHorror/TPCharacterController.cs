@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class TPCharacterController : MonoBehaviour
 {
 
@@ -70,7 +70,8 @@ public class TPCharacterController : MonoBehaviour
     {
         if (collider.tag == "Spell")
         {
-    //        gameOverScreen.SetActive(true);
+            gameOverScreen.SetActive(true);
+            SceneManager.LoadScene("SampleScene");
         }
     }
 

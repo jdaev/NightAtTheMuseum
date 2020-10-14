@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 public class MemoryGameManager : MonoBehaviour
 {
     List<Card> choiceCards = new List<Card>();
@@ -23,7 +24,9 @@ public class MemoryGameManager : MonoBehaviour
     public GameObject choiceContent;
     public GameObject chosenContent;
     int round = 1;
-
+    public void ExitScene(){
+        SceneManager.LoadScene("SampleScene");
+    }
     int GenerateCardNumber()
     {
 
@@ -142,7 +145,8 @@ public class MemoryGameManager : MonoBehaviour
     }
 
     void Start()
-    {
+    {Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         StartNextRound();
     }
 

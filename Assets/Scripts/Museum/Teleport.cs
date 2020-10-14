@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class Demo2DGameTeleport : MonoBehaviour
+public class Teleport : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public string sceneName;
     void Start()
     {
         
@@ -19,7 +19,7 @@ public class Demo2DGameTeleport : MonoBehaviour
     void OnTriggerEnter(Collider collider){
 
         if(collider.gameObject.CompareTag("Player")){
-            SceneManager.LoadScene("Demo2DGameScene");
+            SceneManager.LoadScene(sceneName);
         }
     }
 }

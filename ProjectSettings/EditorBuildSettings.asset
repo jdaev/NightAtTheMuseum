@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Bomb.unity
     guid: 9e4a7555e8475e64eab73443d67d4992
+  - enabled: 1
+    path: Assets/Scenes/MemoryGame.unity
+    guid: 1a3e6efdfb62a1445b4f0afe04abda5a
+  - enabled: 1
+    path: Assets/Scenes/ProBuilderPractice.unity
+    guid: 59839526c8e61c14c80b8e16fc8674e2
+  - enabled: 1
+    path: Assets/Scenes/ProceduralGen.unity
+    guid: 4b10d34578c75ab42ab354fb11cc78ed
+  - enabled: 1
+    path: Assets/Scenes/BulletHell.unity
+    guid: 6155885f1df61d44fb4354d6ac2987cd
   m_configObjects: {}

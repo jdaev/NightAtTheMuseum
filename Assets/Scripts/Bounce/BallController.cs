@@ -113,7 +113,7 @@ public class BallController : MonoBehaviour
         Debug.Log("You died!");
         audioSource.clip = ballPop;
         audioSource.Play();
-        SceneManager.LoadScene("Bound2D");
+        SceneManager.LoadScene("SampleScene");
 
     }
 

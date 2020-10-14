@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class PlayerShipController : MonoBehaviour
 {
     public float shipSpeed = 10f;
@@ -67,6 +67,7 @@ public class PlayerShipController : MonoBehaviour
         {
             GameObject.Destroy(other.gameObject);
             GameObject.Destroy(gameObject);
+            SceneManager.LoadScene("SampleScene");
         }
     }
 }
